@@ -1,0 +1,17 @@
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\bin\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.exe
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\bin\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.deps.json
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\bin\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.runtimeconfig.json
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\bin\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.dll
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\bin\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.pdb
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\obj\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.csproj.AssemblyReference.cache
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\obj\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.Form1.resources
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\obj\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.csproj.GenerateResource.cache
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\obj\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\obj\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.AssemblyInfoInputs.cache
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\obj\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.AssemblyInfo.cs
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\obj\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.csproj.CoreCompileInputs.cache
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\obj\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.dll
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\obj\Debug\net6.0-windows\refint\comboboxtan_carpim_tablosu_yazdirma.dll
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\obj\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.pdb
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\obj\Debug\net6.0-windows\comboboxtan_carpim_tablosu_yazdirma.genruntimeconfig.cache
+D:\C#\c# form\comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma\obj\Debug\net6.0-windows\ref\comboboxtan_carpim_tablosu_yazdirma.dll

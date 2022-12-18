@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "iki_sayi_arasi_asal_sayilar/1.0.0": {
+        "runtime": {
+          "iki_sayi_arasi_asal_sayilar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "iki_sayi_arasi_asal_sayilar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

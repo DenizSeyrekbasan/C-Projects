@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "vucut_kitle_indeksi_hesaplama/1.0.0": {
+        "runtime": {
+          "vucut_kitle_indeksi_hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vucut_kitle_indeksi_hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

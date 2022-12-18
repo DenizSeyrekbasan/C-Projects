@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comboboxtan_carpim_tablosu_yazdirma", "comboboxtan_carpim_tablosu_yazdirma\comboboxtan_carpim_tablosu_yazdirma.csproj", "{4C10FFCB-F483-4D42-AE80-E0C1F9F84384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C10FFCB-F483-4D42-AE80-E0C1F9F84384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C10FFCB-F483-4D42-AE80-E0C1F9F84384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C10FFCB-F483-4D42-AE80-E0C1F9F84384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C10FFCB-F483-4D42-AE80-E0C1F9F84384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F257881D-5868-4A71-8885-6C2C1F9E08CA}
+	EndGlobalSection
+EndGlobal

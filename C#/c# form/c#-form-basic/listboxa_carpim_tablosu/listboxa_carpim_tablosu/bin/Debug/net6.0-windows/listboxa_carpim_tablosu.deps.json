@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "listboxa_carpim_tablosu/1.0.0": {
+        "runtime": {
+          "listboxa_carpim_tablosu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "listboxa_carpim_tablosu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

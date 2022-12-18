@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for_döngüsü_ile_listboxa_veri_yazdırma", "for_döngüsü_ile_listboxa_veri_yazdırma\for_döngüsü_ile_listboxa_veri_yazdırma.csproj", "{B020A984-5303-4C7E-A805-E01E624E072F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B020A984-5303-4C7E-A805-E01E624E072F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B020A984-5303-4C7E-A805-E01E624E072F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B020A984-5303-4C7E-A805-E01E624E072F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B020A984-5303-4C7E-A805-E01E624E072F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF92B6F0-159F-4FC4-84FD-50DD15C1AF4E}
+	EndGlobalSection
+EndGlobal

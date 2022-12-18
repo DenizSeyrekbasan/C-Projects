@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "comboboxtan_carpim_tablosu_yazdirma/1.0.0": {
+        "runtime": {
+          "comboboxtan_carpim_tablosu_yazdirma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "comboboxtan_carpim_tablosu_yazdirma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

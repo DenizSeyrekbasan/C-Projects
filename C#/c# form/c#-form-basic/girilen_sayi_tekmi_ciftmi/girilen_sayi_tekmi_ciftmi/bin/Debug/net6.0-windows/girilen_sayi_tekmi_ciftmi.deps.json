@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "girilen_sayi_tekmi_ciftmi/1.0.0": {
+        "runtime": {
+          "girilen_sayi_tekmi_ciftmi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "girilen_sayi_tekmi_ciftmi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

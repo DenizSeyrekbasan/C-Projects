@@ -1,0 +1,17 @@
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\bin\Debug\net6.0-windows\listboxa_carpim_tablosu.exe
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\bin\Debug\net6.0-windows\listboxa_carpim_tablosu.deps.json
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\bin\Debug\net6.0-windows\listboxa_carpim_tablosu.runtimeconfig.json
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\bin\Debug\net6.0-windows\listboxa_carpim_tablosu.dll
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\bin\Debug\net6.0-windows\listboxa_carpim_tablosu.pdb
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\obj\Debug\net6.0-windows\listboxa_carpim_tablosu.csproj.AssemblyReference.cache
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\obj\Debug\net6.0-windows\listboxa_carpim_tablosu.Form1.resources
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\obj\Debug\net6.0-windows\listboxa_carpim_tablosu.csproj.GenerateResource.cache
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\obj\Debug\net6.0-windows\listboxa_carpim_tablosu.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\obj\Debug\net6.0-windows\listboxa_carpim_tablosu.AssemblyInfoInputs.cache
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\obj\Debug\net6.0-windows\listboxa_carpim_tablosu.AssemblyInfo.cs
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\obj\Debug\net6.0-windows\listboxa_carpim_tablosu.csproj.CoreCompileInputs.cache
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\obj\Debug\net6.0-windows\listboxa_carpim_tablosu.dll
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\obj\Debug\net6.0-windows\refint\listboxa_carpim_tablosu.dll
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\obj\Debug\net6.0-windows\listboxa_carpim_tablosu.pdb
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\obj\Debug\net6.0-windows\listboxa_carpim_tablosu.genruntimeconfig.cache
+D:\C#\c# form\listboxa_carpim_tablosu\listboxa_carpim_tablosu\obj\Debug\net6.0-windows\ref\listboxa_carpim_tablosu.dll

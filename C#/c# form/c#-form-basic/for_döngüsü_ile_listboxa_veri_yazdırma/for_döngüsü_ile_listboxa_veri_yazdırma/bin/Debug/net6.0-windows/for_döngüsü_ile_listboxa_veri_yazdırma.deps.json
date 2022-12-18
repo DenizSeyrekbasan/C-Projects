@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "for_döngüsü_ile_listboxa_veri_yazdırma/1.0.0": {
+        "runtime": {
+          "for_döngüsü_ile_listboxa_veri_yazdırma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "for_döngüsü_ile_listboxa_veri_yazdırma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

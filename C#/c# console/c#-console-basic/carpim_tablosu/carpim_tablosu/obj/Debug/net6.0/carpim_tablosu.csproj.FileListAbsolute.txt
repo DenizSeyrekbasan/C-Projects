@@ -1,0 +1,15 @@
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\bin\Debug\net6.0\carpim_tablosu.exe
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\bin\Debug\net6.0\carpim_tablosu.deps.json
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\bin\Debug\net6.0\carpim_tablosu.runtimeconfig.json
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\bin\Debug\net6.0\carpim_tablosu.dll
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\bin\Debug\net6.0\carpim_tablosu.pdb
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\obj\Debug\net6.0\carpim_tablosu.csproj.AssemblyReference.cache
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\obj\Debug\net6.0\carpim_tablosu.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\obj\Debug\net6.0\carpim_tablosu.AssemblyInfoInputs.cache
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\obj\Debug\net6.0\carpim_tablosu.AssemblyInfo.cs
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\obj\Debug\net6.0\carpim_tablosu.csproj.CoreCompileInputs.cache
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\obj\Debug\net6.0\carpim_tablosu.dll
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\obj\Debug\net6.0\refint\carpim_tablosu.dll
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\obj\Debug\net6.0\carpim_tablosu.pdb
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\obj\Debug\net6.0\carpim_tablosu.genruntimeconfig.cache
+D:\C#\c# console\carpim_tablosu\carpim_tablosu\obj\Debug\net6.0\ref\carpim_tablosu.dll

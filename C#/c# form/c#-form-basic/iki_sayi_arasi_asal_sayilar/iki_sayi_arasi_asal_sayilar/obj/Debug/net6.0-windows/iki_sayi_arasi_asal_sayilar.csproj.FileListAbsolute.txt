@@ -1,0 +1,17 @@
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\bin\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.exe
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\bin\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.deps.json
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\bin\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.runtimeconfig.json
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\bin\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.dll
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\bin\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.pdb
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\obj\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.csproj.AssemblyReference.cache
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\obj\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.Form1.resources
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\obj\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.csproj.GenerateResource.cache
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\obj\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\obj\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.AssemblyInfoInputs.cache
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\obj\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.AssemblyInfo.cs
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\obj\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.csproj.CoreCompileInputs.cache
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\obj\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.dll
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\obj\Debug\net6.0-windows\refint\iki_sayi_arasi_asal_sayilar.dll
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\obj\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.pdb
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\obj\Debug\net6.0-windows\iki_sayi_arasi_asal_sayilar.genruntimeconfig.cache
+D:\C#\c# form\iki_sayi_arasi_asal_sayilar\iki_sayi_arasi_asal_sayilar\obj\Debug\net6.0-windows\ref\iki_sayi_arasi_asal_sayilar.dll

@@ -1,0 +1,17 @@
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\bin\Debug\net6.0-windows\carpim_tablosu_gösterme.exe
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\bin\Debug\net6.0-windows\carpim_tablosu_gösterme.deps.json
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\bin\Debug\net6.0-windows\carpim_tablosu_gösterme.runtimeconfig.json
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\bin\Debug\net6.0-windows\carpim_tablosu_gösterme.dll
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\bin\Debug\net6.0-windows\carpim_tablosu_gösterme.pdb
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\obj\Debug\net6.0-windows\carpim_tablosu_gösterme.csproj.AssemblyReference.cache
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\obj\Debug\net6.0-windows\carpim_tablosu_gösterme.Form1.resources
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\obj\Debug\net6.0-windows\carpim_tablosu_gösterme.csproj.GenerateResource.cache
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\obj\Debug\net6.0-windows\carpim_tablosu_gösterme.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\obj\Debug\net6.0-windows\carpim_tablosu_gösterme.AssemblyInfoInputs.cache
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\obj\Debug\net6.0-windows\carpim_tablosu_gösterme.AssemblyInfo.cs
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\obj\Debug\net6.0-windows\carpim_tablosu_gösterme.csproj.CoreCompileInputs.cache
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\obj\Debug\net6.0-windows\carpim_tablosu_gösterme.dll
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\obj\Debug\net6.0-windows\refint\carpim_tablosu_gösterme.dll
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\obj\Debug\net6.0-windows\carpim_tablosu_gösterme.pdb
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\obj\Debug\net6.0-windows\carpim_tablosu_gösterme.genruntimeconfig.cache
+D:\C#\c# form\carpim_tablosu_gösterme\carpim_tablosu_gösterme\obj\Debug\net6.0-windows\ref\carpim_tablosu_gösterme.dll

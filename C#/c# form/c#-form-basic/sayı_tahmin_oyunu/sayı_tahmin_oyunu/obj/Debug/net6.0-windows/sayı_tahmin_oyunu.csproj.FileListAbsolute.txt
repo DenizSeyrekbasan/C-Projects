@@ -1,0 +1,17 @@
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\bin\Debug\net6.0-windows\sayı_tahmin_oyunu.exe
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\bin\Debug\net6.0-windows\sayı_tahmin_oyunu.deps.json
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\bin\Debug\net6.0-windows\sayı_tahmin_oyunu.runtimeconfig.json
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\bin\Debug\net6.0-windows\sayı_tahmin_oyunu.dll
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\bin\Debug\net6.0-windows\sayı_tahmin_oyunu.pdb
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\obj\Debug\net6.0-windows\sayı_tahmin_oyunu.csproj.AssemblyReference.cache
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\obj\Debug\net6.0-windows\sayı_tahmin_oyunu.Form1.resources
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\obj\Debug\net6.0-windows\sayı_tahmin_oyunu.csproj.GenerateResource.cache
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\obj\Debug\net6.0-windows\sayı_tahmin_oyunu.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\obj\Debug\net6.0-windows\sayı_tahmin_oyunu.AssemblyInfoInputs.cache
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\obj\Debug\net6.0-windows\sayı_tahmin_oyunu.AssemblyInfo.cs
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\obj\Debug\net6.0-windows\sayı_tahmin_oyunu.csproj.CoreCompileInputs.cache
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\obj\Debug\net6.0-windows\sayı_tahmin_oyunu.dll
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\obj\Debug\net6.0-windows\refint\sayı_tahmin_oyunu.dll
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\obj\Debug\net6.0-windows\sayı_tahmin_oyunu.pdb
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\obj\Debug\net6.0-windows\sayı_tahmin_oyunu.genruntimeconfig.cache
+D:\C#\c# form\sayı_tahmin_oyunu\sayı_tahmin_oyunu\obj\Debug\net6.0-windows\ref\sayı_tahmin_oyunu.dll

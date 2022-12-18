@@ -1,0 +1,17 @@
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\bin\Debug\net6.0-windows\asal_sayı_kontrol.exe
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\bin\Debug\net6.0-windows\asal_sayı_kontrol.deps.json
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\bin\Debug\net6.0-windows\asal_sayı_kontrol.runtimeconfig.json
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\bin\Debug\net6.0-windows\asal_sayı_kontrol.dll
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\bin\Debug\net6.0-windows\asal_sayı_kontrol.pdb
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\obj\Debug\net6.0-windows\asal_sayı_kontrol.csproj.AssemblyReference.cache
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\obj\Debug\net6.0-windows\asal_sayı_kontrol.Form1.resources
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\obj\Debug\net6.0-windows\asal_sayı_kontrol.csproj.GenerateResource.cache
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\obj\Debug\net6.0-windows\asal_sayı_kontrol.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\obj\Debug\net6.0-windows\asal_sayı_kontrol.AssemblyInfoInputs.cache
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\obj\Debug\net6.0-windows\asal_sayı_kontrol.AssemblyInfo.cs
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\obj\Debug\net6.0-windows\asal_sayı_kontrol.csproj.CoreCompileInputs.cache
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\obj\Debug\net6.0-windows\asal_sayı_kontrol.dll
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\obj\Debug\net6.0-windows\refint\asal_sayı_kontrol.dll
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\obj\Debug\net6.0-windows\asal_sayı_kontrol.pdb
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\obj\Debug\net6.0-windows\asal_sayı_kontrol.genruntimeconfig.cache
+D:\C#\c# form\asal_sayı_kontrol\asal_sayı_kontrol\obj\Debug\net6.0-windows\ref\asal_sayı_kontrol.dll
